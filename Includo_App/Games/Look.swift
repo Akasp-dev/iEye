@@ -28,7 +28,7 @@ struct LookView : View {
                 circleX = point.x
                 circleY = point.y
             case .ended:
-                print("Out")
+                print("Ou")
             }
         }
     }
