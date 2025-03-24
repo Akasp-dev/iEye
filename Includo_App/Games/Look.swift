@@ -12,7 +12,7 @@ struct LookView : View {
             Rectangle()
                 .fill(.black)
                 .ignoresSafeArea()
-                .opacity(0.95)
+                .opacity(0.92)
                 .overlay(
                     Circle()
                         .frame(width: 380)
@@ -28,7 +28,7 @@ struct LookView : View {
                 circleX = point.x
                 circleY = point.y
             case .ended:
-                print("Ou")
+                print("Out")
             }
         }
     }
