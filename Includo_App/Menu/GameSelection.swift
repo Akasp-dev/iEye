@@ -17,6 +17,8 @@ func gameSelection(_ index : Int) -> AnyView{
         return AnyView(SwipeView())
     case 6:
         return AnyView(SmallerView())
+    case 7:
+        return AnyView(LookView())
     default:
         return AnyView(EmptyView())
     }

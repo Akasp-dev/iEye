@@ -40,7 +40,6 @@
 		B8497CE82D2FB3320003E285 /* Coin.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8497CE72D2FB32B0003E285 /* Coin.swift */; };
 		B8497CEA2D2FD9510003E285 /* RGBConvert.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8497CE92D2FD94B0003E285 /* RGBConvert.swift */; };
 		B84BD2AF2D4B738F0086AFC4 /* Run.swift in Sources */ = {isa = PBXBuildFile; fileRef = B84BD2AE2D4B73880086AFC4 /* Run.swift */; };
-		B84F658E2D426EC300975EA2 /* Empty.swift in Sources */ = {isa = PBXBuildFile; fileRef = B84F658D2D426EBC00975EA2 /* Empty.swift */; };
 		B863F8D22D35263E00CDFD57 /* FallingStar.swift in Sources */ = {isa = PBXBuildFile; fileRef = B863F8D12D35262D00CDFD57 /* FallingStar.swift */; };
 		B8718AA82D23DDB4007D5CF3 /* Init.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8718AA72D23DDAC007D5CF3 /* Init.swift */; };
 		B874B1EB2D8194880023BD6D /* War.swift in Sources */ = {isa = PBXBuildFile; fileRef = B874B1EA2D8194860023BD6D /* War.swift */; };
@@ -103,7 +102,6 @@
 		B8497CE72D2FB32B0003E285 /* Coin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coin.swift; sourceTree = "<group>"; };
 		B8497CE92D2FD94B0003E285 /* RGBConvert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RGBConvert.swift; sourceTree = "<group>"; };
 		B84BD2AE2D4B73880086AFC4 /* Run.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Run.swift; sourceTree = "<group>"; };
-		B84F658D2D426EBC00975EA2 /* Empty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Empty.swift; sourceTree = "<group>"; };
 		B863F8D12D35262D00CDFD57 /* FallingStar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FallingStar.swift; sourceTree = "<group>"; };
 		B8718AA72D23DDAC007D5CF3 /* Init.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Init.swift; sourceTree = "<group>"; };
 		B874B1EA2D8194860023BD6D /* War.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = War.swift; sourceTree = "<group>"; };
@@ -230,7 +228,6 @@
 		7CB10BFE2C45544000E49996 /* Includo_App */ = {
 			isa = PBXGroup;
 			children = (
-				B84F658D2D426EBC00975EA2 /* Empty.swift */,
 				B8718AA92D240A45007D5CF3 /* MP4 */,
 				7C800D542CC90F1700E0D8D6 /* Fonts */,
 				7C800D532CC90EF300E0D8D6 /* SFX */,
@@ -439,7 +436,6 @@
 				B863F8D22D35263E00CDFD57 /* FallingStar.swift in Sources */,
 				7C4715392D0327E5006F7AEA /* KeyGame.swift in Sources */,
 				7CFC5C662C7758DB001FD9F6 /* WhiteTiles.swift in Sources */,
-				B84F658E2D426EC300975EA2 /* Empty.swift in Sources */,
 				7CB10C002C45544000E49996 /* App.swift in Sources */,
 				B84BD2AF2D4B738F0086AFC4 /* Run.swift in Sources */,
 				7C800D562CC910F400E0D8D6 /* RotatingTiles.swift in Sources */,
